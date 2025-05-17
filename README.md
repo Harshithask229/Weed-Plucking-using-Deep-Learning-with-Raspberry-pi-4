@@ -29,3 +29,5 @@ Structure of the repository
 Clone the repo and Upload Traning file in google drive and open ipynb file in colab and then you can change the parameters and you can play with the code.
 For testing and for using the project download weights from the link and paste it in testing folder.
 For testing project we have to run the code.py file in the thony python ide in respberry pi make sure all the connections has done as per the circuit daigram with webcame access.
+
+
